@@ -2,6 +2,8 @@
 #include "Company.h"
 #include "Customer.h"
 
+// Author Ravi
+
 std::string Company::name() const {
     return this->_name;
 }
